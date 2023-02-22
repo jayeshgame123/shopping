@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* .product-card-info{
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  padding: 2px;
+} */
